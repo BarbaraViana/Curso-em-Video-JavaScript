@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="pt-br">
+<html lang="en">
 
 <head>
     <meta charset="UTF-8">
@@ -8,30 +8,20 @@
     <meta name="author" content="Barbara Cristina Viana" />
     <meta name="keywords" content="Pagina de depoimentos, html, css" />
     <meta name="description" content="descrição do site" />
-    <title>Meu primeiro programa...</title>
+    <title>Document</title>
     <style>
         body {
-            background-color: rgb(192, 190, 190);
-            color: black;
-            /*Comentario em CSS */
             font: normal 20pt Arial;
-        }
-        
-        h1 {
-            color: yellow;
         }
     </style>
 </head>
 
 <body>
-    <h1>Olá Mundo!</h1>
-    <!--Comentario em HTML-->
-    <p>Já me livrei da maldição</p>
-
     <script>
-        window.alert('Minha primeira mensagem') //Comentario em JS
-        window.confirm('Está gostando de JS?')
-        window.prompt('Qual é o Seu nome?')
+        var nome = window.prompt('Qual é o seu nome?')
+        document.writeln(`Olá ${nome}, seu nome tem ${nome.length} letras`)
+        document.writeln(`Olá ${nome}, seu nome em maiuscula ${nome.toUpperCase()}`)
+        document.writeln(`Olá ${nome}, seu nome em minuscula ${nome.toLowerCase()}`)
     </script>
 </body>
 
