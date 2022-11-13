@@ -11,6 +11,11 @@ Aulas do Curso de JavaScript e ECMAScript para Iniciantes, criado pelo professor
 ![image](https://user-images.githubusercontent.com/81521722/201523861-e6dd0355-45be-4e49-8269-942b99ebca11.png)
 ## Operadores Lógicos<br>
 ![image](https://user-images.githubusercontent.com/81521722/201524395-46b65ac1-f3d1-48cd-926b-339f74a1be73.png)
+![image](https://user-images.githubusercontent.com/81521722/201524522-9442dba7-8fae-41ee-bd86-098f3bdc9e65.png)
+![image](https://user-images.githubusercontent.com/81521722/201524796-b56e4612-7983-4468-a150-b9c32645089a.png)
+![image](https://user-images.githubusercontent.com/81521722/201524956-39de6775-84a9-4fd8-8e55-e3980b22417c.png)
+
+
 
 
 
