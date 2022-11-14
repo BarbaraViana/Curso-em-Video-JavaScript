@@ -21,6 +21,9 @@ Aulas do Curso de JavaScript e ECMAScript para Iniciantes, criado pelo professor
 ### No navegador<br>
 ![image](https://user-images.githubusercontent.com/81521722/201537901-3d21ed5d-38b3-4e95-85d7-6ebba927dad6.png)
 ![image](https://user-images.githubusercontent.com/81521722/201538533-b8d9b002-7fa6-467d-a6ed-44005c0eeae0.png)
+##  Condições múltiplas (switch..case)<br>
+![image](https://user-images.githubusercontent.com/81521722/201741369-c85e4d4c-58a7-400c-8a8d-ef1082a231f2.png)
+
 
 
 
