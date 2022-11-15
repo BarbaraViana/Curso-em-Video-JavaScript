@@ -23,6 +23,15 @@ Aulas do Curso de JavaScript e ECMAScript para Iniciantes, criado pelo professor
 ![image](https://user-images.githubusercontent.com/81521722/201538533-b8d9b002-7fa6-467d-a6ed-44005c0eeae0.png)
 ##  Condições múltiplas (switch..case)<br>
 ![image](https://user-images.githubusercontent.com/81521722/201741369-c85e4d4c-58a7-400c-8a8d-ef1082a231f2.png)
+## Estruturas de Repetição
+![image](https://user-images.githubusercontent.com/81521722/201972730-12e5b7ab-9356-4360-8c69-ae5783880151.png)
+
+<p>While</p>
+
+
+![image](https://user-images.githubusercontent.com/81521722/201970274-cf221f21-6e70-4478-a0bd-6b1ae1dd18da.png)<br>
+![image](https://user-images.githubusercontent.com/81521722/201972251-931bf3b0-426e-424d-8b35-0d46767955e3.png)
+
 
 
 
