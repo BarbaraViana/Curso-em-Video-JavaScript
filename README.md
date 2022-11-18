@@ -30,7 +30,9 @@ Aulas do Curso de JavaScript e ECMAScript para Iniciantes, criado pelo professor
 
 
 ![image](https://user-images.githubusercontent.com/81521722/201970274-cf221f21-6e70-4478-a0bd-6b1ae1dd18da.png)<br>
-![image](https://user-images.githubusercontent.com/81521722/201972251-931bf3b0-426e-424d-8b35-0d46767955e3.png)
+![image](https://user-images.githubusercontent.com/81521722/201972251-931bf3b0-426e-424d-8b35-0d46767955e3.png)<br>
+![image](https://user-images.githubusercontent.com/81521722/202713982-2212785c-6b24-4c6b-8292-92b963a8507c.png)
+
 
 
 
