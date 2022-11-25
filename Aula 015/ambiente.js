@@ -1,21 +1,6 @@
 /* let num = []
 console.log(`Meu numero é ${num}`) 
 
-Para mostrar cada vetor na tela separado.
-console.log(num[0])
-console.log(num[1])
-console.log(num[2])
-console.log(num[3])
-console.log(num[4])
-O que está entre chaves siginica a posição de cada vetor
-
-for (inicialização;teste logico; incremento){
-    console.log()
-}
-
-for (let pos = 0;pos<num.length;pos++){
-    console.log()
-}
 
 */
 
