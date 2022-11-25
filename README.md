@@ -36,7 +36,9 @@ Aulas do Curso de JavaScript e ECMAScript para Iniciantes, criado pelo professor
 
 ## Funções - Curso JavaScript<br>
 
-![image](https://user-images.githubusercontent.com/81521722/204057415-7a1cf2ba-38d6-4d64-96b6-5219467d3071.png)
+![image](https://user-images.githubusercontent.com/81521722/204057415-7a1cf2ba-38d6-4d64-96b6-5219467d3071.png)<br>
+![image](https://user-images.githubusercontent.com/81521722/204058076-00a7d239-035c-4b07-bb9f-69189334aee9.png)<br>
+
 
 
 
